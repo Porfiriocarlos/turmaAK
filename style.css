@@ -3,10 +3,14 @@
     text-align: center;
     font-size: 40px;
 }
+.subtitulo{
+    color: greenyellow;
+
+}
 
 .texto{
     text-align: justify;
-    color: red;
+    color: blue;
 }
 
 
