@@ -1,0 +1,19 @@
+#titulo-principal{
+    color : blue;
+    text-align: center;
+    font-size: 40px;
+}
+.subtitulo {
+    text-align: left;
+    color: yellowgreen;
+}
+
+.texto{
+    text-align: justify;
+    color: red;
+}
+
+
+body{
+    background-color: rgb(162, 236, 162);
+}
