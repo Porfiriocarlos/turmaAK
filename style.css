@@ -1,19 +1,19 @@
 #titulo-principal{
-    color : blue;
+    color : darkblue;
     text-align: center;
-    font-size: 40px;
+    font-size: 60px;
 }
 .subtitulo{
-    color: greenyellow;
+    color: rgb(20, 19, 19);
     text-align: left;
 }
 
 .texto{
     text-align: justify;
-    color: darkgray;
+    color: rgb(32, 27, 27);
 }
 
 
 body{
-    background-color: rgb(162, 236, 162);
+    background-color: rgb(219, 221, 219);
 }
