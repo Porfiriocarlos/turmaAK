@@ -11,6 +11,7 @@
 .texto{
     text-align: justify;
     color: rgb(32, 27, 27);
+    padding: 50;
 }
 
 body{
