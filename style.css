@@ -19,6 +19,8 @@ body{
 }
 #mao{
     width: 600px
+    solid border:black 2px;
+    
 }
 
 #robo{
