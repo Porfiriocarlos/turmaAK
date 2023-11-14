@@ -5,13 +5,13 @@
 }
 .subtitulo{
     color: rgb(20, 19, 19);
-    text-align: left;
+    text-align: center;
 }
 
 .texto{
     text-align: justify;
     color: rgb(32, 27, 27);
-    padding: 50px;
+    padding: 20px;
 }
 
 body{
