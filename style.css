@@ -22,7 +22,9 @@ body{
     solid border:black 2px;
     
 }
-
+.cabecalho{
+    background-color: blueviolet;
+}
 #robo{
     width: 600px;
 }
