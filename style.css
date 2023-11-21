@@ -23,7 +23,9 @@ body{
     
 }
 .cabecalho{
-    background-color: blueviolet;
+    background-image: linear-gradient(
+        purple, black
+    )
 }
 #robo{
     width: 600px;
